@@ -1,6 +1,6 @@
-- 👋 oi, sou @Svictor3301
-- 👀 Estou interessado em desenvolver sites
-- 🌱 Atualmente estou aprendendo JavaScript
+- 👋 oi, sou samuel souza
+- 👀 Estou interessado em desenvolver aplicações
+- 🌱 Atualmente estou aprendendo c#
 - 📫 como me encontrar @samuel_victor3301
 
 <!---
